@@ -15,3 +15,11 @@ Be carefull about sql injection...
 You can use Burp Suite entreprise to scan your website. 
 
 https://portswigger.net/burp/enterprise
+
+# sources : 
+
+https://portswigger.net/web-security/sql-injection
+
+https://discord.gg/graven
+
+https://www.php.net/
