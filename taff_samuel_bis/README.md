@@ -41,3 +41,5 @@ You will separate your Web Site on three files.
 * https://discord.gg/graven
 
 * School
+
+*this web site will be an update to fix bug and name of variables*
