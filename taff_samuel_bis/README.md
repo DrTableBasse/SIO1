@@ -42,4 +42,4 @@ You will separate your Web Site on three files.
 
 * School
 
-*this web site will be an update to fix bug and name of variables*
+*this web site will have an update to fix bug and name of variables*
