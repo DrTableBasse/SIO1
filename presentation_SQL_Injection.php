@@ -7,7 +7,7 @@ mysql_query(SELECT FROM employees WHERE name = . $name);
 
 //Example of SQL Injection
 //This requestion will delete every line in employees table
-$name = 'Jean';DELETE FROM employees
+$name = 'Test';DELETE FROM employees
 mysql_query(SELECT FROM employees WHERE name = . $name);
 ?>
 
