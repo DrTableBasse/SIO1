@@ -1,0 +1,1 @@
+Bonjour , <?= $_SESSION['user'] ?>
