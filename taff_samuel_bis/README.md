@@ -25,10 +25,19 @@ price = 12.99
 
 You will separate your Web Site on three files. 
 
-## Controller : Contain the logic about any actions which are do by user.
+* ##  Controller : Contain the logic about any actions which are do by user.
 
-## View : Contain graphical interface
+* ##  View : Contain graphical interface
 
-## Model : contains the information to display
+* ##  Model : contains the information to display
 
 *This architecture can use for every projects. The idea is to have more files to know where we have a problem and change what we want quickly* 
+
+
+# Sources : 
+
+* https://fr.wikipedia.org/wiki/Mod%C3%A8le-vue-contr%C3%B4leur
+
+* https://discord.gg/graven
+
+* School
