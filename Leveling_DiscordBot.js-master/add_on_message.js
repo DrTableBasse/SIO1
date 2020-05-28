@@ -7,6 +7,7 @@ var profile = await dl.Fetch(message.author.id)
   }
 //repeat these lines for any role. 
 // You can change the number of what you want, level 1 -> role1 eg....
+//petitdejeune, deujeune, gouter and Dîner are name role
   if (profile.level +1 === 1) {
       let petitdejeune = message.guild.roles.find(r => r.name === "role1");
     message.member.addRole(petitdejeune.id)
