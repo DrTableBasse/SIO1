@@ -32,7 +32,7 @@ You will separate your Web Site on three files.
 * ##  Model : contains the information to display
 
 *This architecture can use for every projects. The idea is to have more files to know where we have a problem and change what we want quickly
-In other words, the idea is to call other files to do a specific action. (For example with an other project, you should see a leveling system with Discord chat in node js with discord.js V11 librairi* 
+In other words, the idea is to call other files to do a specific action. (For example with an other project, you should see a leveling system with Discord chat in node js with discord.js V11 librairi)* 
 
 
 # Sources : 
